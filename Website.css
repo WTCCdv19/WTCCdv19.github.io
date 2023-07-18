@@ -1,0 +1,41 @@
+@charset "utf-8";
+.img_float img {
+}
+nav {
+	text-align: center; 
+}
+nav a {
+	font-size: 2rem;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=text] {
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=email] {
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+input[type=submit] {
+  background-color: white;
+  border: black;
+  color: black;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
